@@ -1,0 +1,17 @@
+{
+  "name": "06-apirest",
+  "version": "1.0.0",
+  "description": "Estructura básica para API Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lanfor Mena Montalbán",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
